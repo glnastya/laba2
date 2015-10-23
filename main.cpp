@@ -8,4 +8,6 @@
   cout << "Enter b = ";
   cin >> b;
   cout << "a + b = " << (a + b);
+  cout << "a - b = " << (a - b);
+
  }
